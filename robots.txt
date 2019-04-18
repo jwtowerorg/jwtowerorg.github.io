@@ -1,0 +1,3 @@
+User-agent: *
+Host: jw-tower.org 
+Sitemap: http://jw-tower.org/sitemap.xml
