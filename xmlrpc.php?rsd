@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://jw-tower.org</homePageLink>
+		<homePageLink>https://jwtowerorg.github.io</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://jw-tower.org/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://jw-tower.org/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://jw-tower.org/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://jw-tower.org/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://jw-tower.org/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://jwtowerorg.github.io/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://jwtowerorg.github.io/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://jwtowerorg.github.io/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://jwtowerorg.github.io/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://jwtowerorg.github.io/wp-json/" />
 			</apis>
 	</service>
 </rsd>
